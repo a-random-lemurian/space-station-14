@@ -17,3 +17,4 @@ paper-ui-fill-level = {$currentLength}/{$maxLength}
 paper-ui-save-button = Save ({$keybind})
 
 paper-tamper-proof-modified-message = This page was written using tamper-proof ink.
+paper-tamper-proof-gib-mob = {CAPITALIZE(THE($paper))} unleashes its anti-tampering security measures on {$victim}.
